@@ -193,8 +193,8 @@ responsive section
 
   .banner {
     background-color: black;
-    margin: 0;
-    width: 100%;
+    margin-top: 40px;
+    width: 90%;
     border-radius: 10px;
   }
 
@@ -379,8 +379,8 @@ responsive section
 
   .banner {
     background-color: black;
-    margin: 0;
-    width: 100%;
+    margin-top: 15px;
+    width: 95%;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
