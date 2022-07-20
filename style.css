@@ -104,6 +104,16 @@ main section
   margin: 10px 0px;
 }
 
+.m-left .button a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+.m-left .red-button a {
+  text-decoration: none;
+  color: white;
+}
+
 .m-right {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
